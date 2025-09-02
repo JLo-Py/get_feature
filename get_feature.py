@@ -1,6 +1,7 @@
 # coding: utf-8 -*-
 # Author: Alberto Sainz Dalda <asainz.solarphysics@gmail.com>
 # Date: 20230327
+# Modified: Juraj Lorincik <lorincik@baeri.org>
 # License: 
 
 # Modification history: 
